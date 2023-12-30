@@ -1,0 +1,82 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "SIADEN Lab.",
+    "description": "",
+    "home_page_url": "https://siadenlab.iesalonsodemadrigal.es",
+    "feed_url": "https://siadenlab.iesalonsodemadrigal.es/feed.json",
+    "user_comment": "",
+    "icon": "https://siadenlab.iesalonsodemadrigal.es/media/website/logo2.png",
+    "author": {
+        "name": "Chema"
+    },
+    "items": [
+        {
+            "id": "https://siadenlab.iesalonsodemadrigal.es/lineas-de-investigacion/",
+            "url": "https://siadenlab.iesalonsodemadrigal.es/lineas-de-investigacion/",
+            "title": "Líneas de Investigación",
+            "author": {
+                "name": "Chema"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-12-15T02:53:51+01:00",
+            "date_modified": "2023-12-15T02:53:51+01:00"
+        },
+        {
+            "id": "https://siadenlab.iesalonsodemadrigal.es/quienes-somos/",
+            "url": "https://siadenlab.iesalonsodemadrigal.es/quienes-somos/",
+            "title": "¿Quiénes somos?",
+            "summary": "SIADEN LAB. es el acrónimo de Sistemas Inteligentes y Análisis de Datos para la Enseñanza. SIADEN Lab. es un grupo de trabajo formado por profesores del IES Alonso de Madrigal de Ávila y tiene como objetivo investigar y desarrollar soluciones que mejoren el trabajo del&hellip;",
+            "content_html": "<p><strong>SIADEN LAB</strong>. es el acrónimo de Sistemas Inteligentes y Análisis de Datos para la Enseñanza.</p>\n<p>SIADEN Lab. es un grupo de trabajo formado por profesores del <strong>IES Alonso de Madrigal de Ávila</strong> y tiene como objetivo investigar y desarrollar soluciones que mejoren el trabajo del docente en cualquier etapa educativa. Además, usamos herramientas como Inteligencia Artificial, Minería de Datos o Internet de las Cosas (IoT) como medio para seguir formados en tecnologías innovadores y conseguir mejores resultados. </p>\n<p class=\"msg--highlight msg msg--info\">Tenemos una misión bien definida: Impulsar la excelencia educativa a través de soluciones tecnológicas de última generación, garantizando así un impacto significativo y positivo en el proceso de enseñanza-aprendizaje.</p>\n<p><strong>Organización</strong></p>\n<p>El grupo de trabajo está formado por profesores del <strong>Departamento de Informática y Comunicación. </strong>Los proyectos en los que se trabaja son compartidos con la comunidad educativa bajo licencia <a href=\"https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1\" title=\"Creative Commons 4.0 DEED\" target=\"_blank\" rel=\"noopener noreferrer\">Creative Commons 4.0 DEED</a>. </p>\n<p>Los alumnos y/o exalumnos del IES Alonso de Madrigal pueden colaborar de forma voluntaria y sin ningún tipo de responsabilidad en los proyectos del grupo. </p>",
+            "author": {
+                "name": "Chema"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-12-14T18:55:39+01:00",
+            "date_modified": "2023-12-21T18:49:15+01:00"
+        },
+        {
+            "id": "https://siadenlab.iesalonsodemadrigal.es/plagricola/",
+            "url": "https://siadenlab.iesalonsodemadrigal.es/plagricola/",
+            "title": "Huellas: protectora de animales digital",
+            "image": "https://siadenlab.iesalonsodemadrigal.es/media/posts/3/plagricola_header_play_store.png",
+            "author": {
+                "name": "Chema"
+            },
+            "tags": [
+                   "Proyectos"
+            ],
+            "date_published": "2023-12-14T18:18:47+01:00",
+            "date_modified": "2023-12-15T02:36:22+01:00"
+        },
+        {
+            "id": "https://siadenlab.iesalonsodemadrigal.es/youthcard/",
+            "url": "https://siadenlab.iesalonsodemadrigal.es/youthcard/",
+            "title": "Ávila en Tapas",
+            "image": "https://siadenlab.iesalonsodemadrigal.es/media/posts/2/01.png",
+            "author": {
+                "name": "Chema"
+            },
+            "tags": [
+                   "Proyectos"
+            ],
+            "date_published": "2022-03-14T18:13:00+01:00",
+            "date_modified": "2023-12-15T02:35:46+01:00"
+        },
+        {
+            "id": "https://siadenlab.iesalonsodemadrigal.es/plagricola-plagas-agricolas/",
+            "url": "https://siadenlab.iesalonsodemadrigal.es/plagricola-plagas-agricolas/",
+            "title": "Plagrícola: Alertas de plagas agrárias",
+            "image": "https://siadenlab.iesalonsodemadrigal.es/media/posts/1/_db449344-ff0c-4c1a-b7e7-1f1dd1edbbf4.jpeg",
+            "author": {
+                "name": "Chema"
+            },
+            "tags": [
+                   "Proyectos"
+            ],
+            "date_published": "2021-09-01T17:29:00+02:00",
+            "date_modified": "2023-12-15T03:11:16+01:00"
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>SIADEN Lab.</title>
+    <link href="https://siadenlab.iesalonsodemadrigal.es/feed.xml" rel="self" />
+    <link href="https://siadenlab.iesalonsodemadrigal.es" />
+    <updated>2023-12-21T18:49:15+01:00</updated>
+    <author>
+        <name>Chema</name>
+    </author>
+    <id>https://siadenlab.iesalonsodemadrigal.es</id>
+
+    <entry>
+        <title>Líneas de Investigación</title>
+        <author>
+            <name>Chema</name>
+        </author>
+        <link href="https://siadenlab.iesalonsodemadrigal.es/lineas-de-investigacion/"/>
+        <id>https://siadenlab.iesalonsodemadrigal.es/lineas-de-investigacion/</id>
+
+        <updated>2023-12-15T02:53:51+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>¿Quiénes somos?</title>
+        <author>
+            <name>Chema</name>
+        </author>
+        <link href="https://siadenlab.iesalonsodemadrigal.es/quienes-somos/"/>
+        <id>https://siadenlab.iesalonsodemadrigal.es/quienes-somos/</id>
+
+        <updated>2023-12-21T18:49:15+01:00</updated>
+            <summary>
+                <![CDATA[
+                    SIADEN LAB. es el acrónimo de Sistemas Inteligentes y Análisis de Datos para la Enseñanza. SIADEN Lab. es un grupo de trabajo formado por profesores del IES Alonso de Madrigal de Ávila y tiene como objetivo investigar y desarrollar soluciones que mejoren el trabajo del&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><strong>SIADEN LAB</strong>. es el acrónimo de Sistemas Inteligentes y Análisis de Datos para la Enseñanza.</p>
+<p>SIADEN Lab. es un grupo de trabajo formado por profesores del <strong>IES Alonso de Madrigal de Ávila</strong> y tiene como objetivo investigar y desarrollar soluciones que mejoren el trabajo del docente en cualquier etapa educativa. Además, usamos herramientas como Inteligencia Artificial, Minería de Datos o Internet de las Cosas (IoT) como medio para seguir formados en tecnologías innovadores y conseguir mejores resultados. </p>
+<p class="msg--highlight msg msg--info">Tenemos una misión bien definida: Impulsar la excelencia educativa a través de soluciones tecnológicas de última generación, garantizando así un impacto significativo y positivo en el proceso de enseñanza-aprendizaje.</p>
+<p><strong>Organización</strong></p>
+<p>El grupo de trabajo está formado por profesores del <strong>Departamento de Informática y Comunicación. </strong>Los proyectos en los que se trabaja son compartidos con la comunidad educativa bajo licencia <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" title="Creative Commons 4.0 DEED" target="_blank" rel="noopener noreferrer">Creative Commons 4.0 DEED</a>. </p>
+<p>Los alumnos y/o exalumnos del IES Alonso de Madrigal pueden colaborar de forma voluntaria y sin ningún tipo de responsabilidad en los proyectos del grupo. </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Huellas: protectora de animales digital</title>
+        <author>
+            <name>Chema</name>
+        </author>
+        <link href="https://siadenlab.iesalonsodemadrigal.es/plagricola/"/>
+        <id>https://siadenlab.iesalonsodemadrigal.es/plagricola/</id>
+        <media:content url="https://siadenlab.iesalonsodemadrigal.es/media/posts/3/plagricola_header_play_store.png" medium="image" />
+            <category term="Proyectos"/>
+
+        <updated>2023-12-15T02:36:22+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Ávila en Tapas</title>
+        <author>
+            <name>Chema</name>
+        </author>
+        <link href="https://siadenlab.iesalonsodemadrigal.es/youthcard/"/>
+        <id>https://siadenlab.iesalonsodemadrigal.es/youthcard/</id>
+        <media:content url="https://siadenlab.iesalonsodemadrigal.es/media/posts/2/01.png" medium="image" />
+            <category term="Proyectos"/>
+
+        <updated>2023-12-15T02:35:46+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Plagrícola: Alertas de plagas agrárias</title>
+        <author>
+            <name>Chema</name>
+        </author>
+        <link href="https://siadenlab.iesalonsodemadrigal.es/plagricola-plagas-agricolas/"/>
+        <id>https://siadenlab.iesalonsodemadrigal.es/plagricola-plagas-agricolas/</id>
+        <media:content url="https://siadenlab.iesalonsodemadrigal.es/media/posts/1/_db449344-ff0c-4c1a-b7e7-1f1dd1edbbf4.jpeg" medium="image" />
+            <category term="Proyectos"/>
+
+        <updated>2023-12-15T03:11:16+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>
