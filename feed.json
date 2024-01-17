@@ -1,12 +1,12 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "AvilaEnTapas",
+    "title": "Huellas",
     "description": "",
-    "home_page_url": "https://avilaentapas.sitehub.es/web",
-    "feed_url": "https://avilaentapas.sitehub.es/web/feed.json",
+    "home_page_url": "https://siadenlab.iesalonsomadrigal.es",
+    "feed_url": "https://siadenlab.iesalonsomadrigal.es/feed.json",
     "user_comment": "",
     "author": {
-        "name": "Rubenvalleho"
+        "name": "JCZunzun"
     },
     "items": [
     ]
