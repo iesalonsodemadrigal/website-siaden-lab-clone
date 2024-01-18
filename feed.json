@@ -2,11 +2,11 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Huellas",
     "description": "",
-    "home_page_url": "https://siadenlab.iesalonsomadrigal.es",
-    "feed_url": "https://siadenlab.iesalonsomadrigal.es/feed.json",
+    "home_page_url": "https://siadenlab.iesalonsodemadrigal.es",
+    "feed_url": "https://siadenlab.iesalonsodemadrigal.es/feed.json",
     "user_comment": "",
     "author": {
-        "name": "JCZunzun"
+        "name": "IES Alonso Madrigal"
     },
     "items": [
     ]

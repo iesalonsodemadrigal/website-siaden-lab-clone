@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Huellas</title>
-    <link href="https://siadenlab.iesalonsomadrigal.es/feed.xml" rel="self" />
-    <link href="https://siadenlab.iesalonsomadrigal.es" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <link href="https://siadenlab.iesalonsodemadrigal.es/feed.xml" rel="self" />
+    <link href="https://siadenlab.iesalonsodemadrigal.es" />
+    <updated>1970-01-01T02:00:00+02:00</updated>
     <author>
-        <name>JCZunzun</name>
+        <name>IES Alonso Madrigal</name>
     </author>
-    <id>https://siadenlab.iesalonsomadrigal.es</id>
+    <id>https://siadenlab.iesalonsodemadrigal.es</id>
 
 </feed>
