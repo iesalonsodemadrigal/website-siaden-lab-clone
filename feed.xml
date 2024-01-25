@@ -1,12 +1,142 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>AvilaEnTapas</title>
+    <title>SIADEN Lab.</title>
     <link href="https://siadenlab.iesalonsodemadrigal.es/feed.xml" rel="self" />
     <link href="https://siadenlab.iesalonsodemadrigal.es" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2024-01-11T02:31:37+01:00</updated>
     <author>
-        <name>Rubenvalleho</name>
+        <name>Chema</name>
     </author>
     <id>https://siadenlab.iesalonsodemadrigal.es</id>
 
+    <entry>
+        <title>Identificación de plagas a través de la Inteligencia Artificial</title>
+        <author>
+            <name>Chema</name>
+        </author>
+        <link href="https://siadenlab.iesalonsodemadrigal.es/identificacion-de-plagas-a-traves-de-la-inteligencia-artificial/"/>
+        <id>https://siadenlab.iesalonsodemadrigal.es/identificacion-de-plagas-a-traves-de-la-inteligencia-artificial/</id>
+        <media:content url="https://siadenlab.iesalonsodemadrigal.es/media/posts/9/DALLE-2023-12-30-13.46.40-An-aerial-view-of-a-lush-green-crop-field.-In-one-corner-of-the-image-covering-about-25-of-the-frame-there-are-two-people-standing-amidst-the-crop.png" medium="image" />
+
+        <updated>2023-12-30T14:45:46+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Carné Joven de Castilla y León</title>
+        <author>
+            <name>Chema</name>
+        </author>
+        <link href="https://siadenlab.iesalonsodemadrigal.es/carne-joven-de-castilla-y-leon/"/>
+        <id>https://siadenlab.iesalonsodemadrigal.es/carne-joven-de-castilla-y-leon/</id>
+        <media:content url="https://siadenlab.iesalonsodemadrigal.es/media/posts/8/logo_v1.png" medium="image" />
+            <category term="Proyectos"/>
+
+        <updated>2023-12-30T14:35:41+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Uso de la IA en el desarrollo de Interfaces de Usuarios para personas de la tercera edad</title>
+        <author>
+            <name>Chema</name>
+        </author>
+        <link href="https://siadenlab.iesalonsodemadrigal.es/uso-de-la-ia-en-herramientas-educativas/"/>
+        <id>https://siadenlab.iesalonsodemadrigal.es/uso-de-la-ia-en-herramientas-educativas/</id>
+        <media:content url="https://siadenlab.iesalonsodemadrigal.es/media/posts/7/ia_ui_seniors-2.jpeg" medium="image" />
+            <category term="Actualidad"/>
+
+        <updated>2024-01-11T02:31:37+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://siadenlab.iesalonsodemadrigal.es/media/posts/7/ia_ui_seniors-2.jpeg" alt="Inteligencia Artificial en el Desarrollo de Interfaces de Usuario" />
+                    Por desarrollar
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://siadenlab.iesalonsodemadrigal.es/media/posts/7/ia_ui_seniors-2.jpeg" class="type:primaryImage" alt="Inteligencia Artificial en el Desarrollo de Interfaces de Usuario" /></p>
+                <p>Por desarrollar</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Líneas de Investigación</title>
+        <author>
+            <name>Chema</name>
+        </author>
+        <link href="https://siadenlab.iesalonsodemadrigal.es/lineas-de-investigacion/"/>
+        <id>https://siadenlab.iesalonsodemadrigal.es/lineas-de-investigacion/</id>
+
+        <updated>2023-12-15T02:53:51+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>¿Quiénes somos?</title>
+        <author>
+            <name>Chema</name>
+        </author>
+        <link href="https://siadenlab.iesalonsodemadrigal.es/quienes-somos/"/>
+        <id>https://siadenlab.iesalonsodemadrigal.es/quienes-somos/</id>
+
+        <updated>2024-01-11T01:30:15+01:00</updated>
+            <summary>
+                <![CDATA[
+                    SIADEN LAB. es el acrónimo de Sistemas Inteligentes y Análisis de Datos para la Enseñanza. SIADEN Lab. es un grupo de investigación formado por profesores y alumnos del IES Alonso de Madrigal de Ávila y tiene como objetivo investigar y desarrollar soluciones que mejoren el&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><strong>SIADEN LAB</strong>. es el acrónimo de Sistemas Inteligentes y Análisis de Datos para la Enseñanza.</p>
+<p>SIADEN Lab. es un grupo de investigación formado por profesores y alumnos del <strong>IES Alonso de Madrigal de Ávila</strong> y tiene como objetivo investigar y desarrollar soluciones que mejoren el trabajo del docente en cualquier etapa educativa. Además, usamos herramientas como Inteligencia Artificial, Minería de Datos o Internet de las Cosas (IoT) como medio para seguir formados en tecnologías innovadores y conseguir mejores resultados. </p>
+<p class="msg--highlight msg msg--info">Tenemos una misión bien definida: Impulsar la excelencia educativa a través de soluciones tecnológicas de última generación, garantizando así un impacto significativo y positivo en el proceso de enseñanza-aprendizaje.</p>
+<p><strong>Organización</strong></p>
+<p>El grupo de trabajo está formado por profesores del <strong>Departamento de Informática y Comunicación. </strong>Los proyectos en los que se trabaja son compartidos con la comunidad educativa bajo licencia <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" title="Creative Commons 4.0 DEED" target="_blank" rel="noopener noreferrer">Creative Commons 4.0 DEED</a>. </p>
+<p>Los alumnos y/o exalumnos del IES Alonso de Madrigal pueden colaborar de forma voluntaria y sin ningún tipo de responsabilidad en los proyectos del grupo. </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Huellas: protectora de animales digital</title>
+        <author>
+            <name>Chema</name>
+        </author>
+        <link href="https://siadenlab.iesalonsodemadrigal.es/plagricola/"/>
+        <id>https://siadenlab.iesalonsodemadrigal.es/plagricola/</id>
+        <media:content url="https://siadenlab.iesalonsodemadrigal.es/media/posts/3/logo.png" medium="image" />
+            <category term="Proyectos"/>
+
+        <updated>2023-12-30T14:35:46+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Ávila en Tapas</title>
+        <author>
+            <name>Chema</name>
+        </author>
+        <link href="https://siadenlab.iesalonsodemadrigal.es/youthcard/"/>
+        <id>https://siadenlab.iesalonsodemadrigal.es/youthcard/</id>
+        <media:content url="https://siadenlab.iesalonsodemadrigal.es/media/posts/2/Logo-AvilaEnTapas-512x512-en-tamano-grande.jpeg" medium="image" />
+            <category term="Proyectos"/>
+
+        <updated>2023-12-30T14:35:30+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Plagrícola: Alertas de plagas agrárias</title>
+        <author>
+            <name>Chema</name>
+        </author>
+        <link href="https://siadenlab.iesalonsodemadrigal.es/plagricola-plagas-agricolas/"/>
+        <id>https://siadenlab.iesalonsodemadrigal.es/plagricola-plagas-agricolas/</id>
+        <media:content url="https://siadenlab.iesalonsodemadrigal.es/media/posts/1/DALLE-2023-12-30-13.51.52-A-logo-design-featuring-a-beetle-where-its-body-is-intricately-formed-by-an-electrical-circuit-pattern.-The-dominant-colors-in-the-logo-are-green-and.png" medium="image" />
+            <category term="Proyectos"/>
+
+        <updated>2023-12-30T14:35:26+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
 </feed>
